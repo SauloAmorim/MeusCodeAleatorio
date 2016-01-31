@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+<title>Titulo</title>
+</head>
+<body>
+<h1> h1 </h1>
+<h2> h2 </h2>
+<h3> h3 </h3>
+<h4> h4 </h4>
+<h5> h5 </h5>
+<h6> h6 </h6>
+<p> P </p>
+<strong>strong</strong>
+<a href="http://sitedosaulin.weebly.com/">a href=xxx.com</a>
+<img src=http://i1.kym-cdn.com/photos/images/original/000/869/910/a6e.jpg />
+<p> ^ - (img src=http://i1.kym-cdn.com/photos/images/original/000/869/910/a6e.jpg /)
